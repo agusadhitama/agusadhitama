@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Agus Satria Adhitama</h1>
 
 <p align="center">
-IT Support • System & Network Enthusiast
+IT Support • Web Developer • System & Network Enthusiast
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@ Keeping systems running, networks flowing, and dashboards glowing ⚡
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=IT+Support+Engineer;Network+Enthusiast;System+Monitoring+Builder;Dashboard+Creator;Always+Learning+New+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=IT+Support+Engineer;Web+Developer;Network+Enthusiast;System+Monitoring+Builder;Dashboard+Creator;Always+Learning+New+Technology" />
 </p>
 
 ---
@@ -17,10 +17,10 @@ Keeping systems running, networks flowing, and dashboards glowing ⚡
 ## 🚀 About Me
 
 - 💻 IT Support Engineer  
-- 🌐 Interested in **Networking & Infrastructure**  
+- 🌐 **Web Developer**  
+- 🔧 Interested in **Networking & IT Infrastructure**  
 - 📊 Building **IT Dashboards & Monitoring Tools**  
-- 🔧 Love solving **technical problems**  
-- 🚀 Always learning new technologies  
+- 🚀 Passionate about technology and problem solving  
 
 ---
 
@@ -65,7 +65,7 @@ https://github.com/agusadhitama
 
 ## ⚡ Motto
 
-> "Technology should make systems easier to monitor, manage, and scale."
+> "Good systems run silently. Great engineers make them that way."
 
 ---
 
