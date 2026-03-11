@@ -58,10 +58,6 @@ Keeping systems running, networks flowing, and dashboards glowing ⚡
 
 ## 🚀 Featured Projects
 
-⭐ Ultimate IT Dashboard  
-⭐ Network Monitoring UI  
-⭐ System Monitoring Tools  
-
 More projects →  
 https://github.com/agusadhitama
 
