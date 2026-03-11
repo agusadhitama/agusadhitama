@@ -1,35 +1,78 @@
-# Hi 👋 I'm Agus Satria Adhitama
+<h1 align="center">Hi 👋 I'm Agus Satria Adhitama</h1>
 
-💻 IT Support | System & Network Enthusiast  
-🚀 Building dashboards, monitoring tools, and cool tech projects
+<p align="center">
+IT Support • System & Network Enthusiast
+</p>
 
----
+<p align="center">
+Keeping systems running, networks flowing, and dashboards glowing ⚡
+</p>
 
-## 🧠 Skills
-
-- Networking
-- IT Support
-- System Administration
-- HTML
-- CSS
-- JavaScript
-- IT Infrastructure
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=IT+Support+Engineer;Network+Enthusiast;System+Monitoring+Builder;Dashboard+Creator;Always+Learning+New+Technology" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-More projects 👉  
-https://github.com/agusadhitama
+- 💻 IT Support Engineer  
+- 🌐 Interested in **Networking & Infrastructure**  
+- 📊 Building **IT Dashboards & Monitoring Tools**  
+- 🔧 Love solving **technical problems**  
+- 🚀 Always learning new technologies  
+
+---
+
+## 🧠 Tech & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode,linux,windows" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Adhit GitHub stats](https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agusadhitama&theme=tokyonight" />
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 📈 Contribution Graph
 
-I enjoy building tools that make IT systems easier to monitor and manage.
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agusadhitama&theme=tokyo-night" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+⭐ Ultimate IT Dashboard  
+⭐ Network Monitoring UI  
+⭐ System Monitoring Tools  
+
+More projects →  
+https://github.com/agusadhitama
+
+---
+
+## ⚡ Motto
+
+> "Technology should make systems easier to monitor, manage, and scale."
+
+---
+
+<p align="center">
+⭐ From <b>Agus Satria Adhitama</b>
+</p>
