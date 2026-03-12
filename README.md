@@ -20,10 +20,10 @@
 🎧 Hip-Hop mindset, tech grind. I keep systems smooth, networks flowing, and dashboards glowing ⚡
 </p>
 
-- 💻 **IT Support Engineer** – Keepin' systems smooth & stable  
-- 🌐 **Web Developer** – Crafting apps with flow & finesse  
-- 🔧 **Networking & IT Infrastructure Enthusiast** – Making networks groove  
-- 📊 **Dashboard & Monitoring Tools Creator** – Data in motion  
+- 💻 **IT Support Engineer** - Keepin' systems smooth & stable  
+- 🌐 **Web Developer** - Crafting apps with flow & finesse  
+- 🔧 **Networking & IT Infrastructure Enthusiast** - Making networks groove  
+- 📊 **Dashboard & Monitoring Tools Creator** - Data in motion  
 - 🎵 Passionate about coding, problem-solving & always leveling up  
 
 ---
