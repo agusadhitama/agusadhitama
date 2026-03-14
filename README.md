@@ -80,10 +80,6 @@ Learning   : Three.js • Web Visualization • API Integration
 <img src="https://img.shields.io/badge/LinkedIn-Agus%20Satria%20Adhitama-00f7ff?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/agusadhitama">
-<img src="https://img.shields.io/badge/GitHub-Agus%20Adhitama-ff00ff?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://instagram.com/agusadhitamaa">
 <img src="https://img.shields.io/badge/Instagram-@agusadhitamaa-ff00ff?style=for-the-badge&logo=instagram"/>
 </a>
