@@ -1,79 +1,108 @@
-<h1 align="center">Yo! 🙌🏽 I'm Agus Satria Adhitama</h1>
+<h1 align="center">
+⚡ Agus Satria Adhitama ⚡
+</h1>
 
 <p align="center">
-💻 IT Support • Web Developer • Network & System Flow Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Creative+Developer;Computer+Science+Graduate;Building+Interactive+Web+Experiences;Exploring+Creative+Coding+%26+Visualization" />
+
 </p>
 
 <p align="center">
-🎵 <b>Dev with rhythm | Building, breaking, learning | Commit, repeat</b>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&color=00ff99&center=true&vCenter=true&width=650&lines=IT+Support+Engineer;Web+Developer;Network+&+System+Enthusiast;Dashboard+&+Monitoring+Builder;Always+Learning+New+Tech" />
-</p>
-
----
-
-## 🚀 About Me
-
-<p align="center">
-🎧 Hip-Hop mindset, tech grind. I keep systems smooth, networks flowing, and dashboards glowing ⚡
-</p>
-
-- 💻 **IT Support Engineer** - Keepin' systems smooth & stable  
-- 🌐 **Web Developer** - Crafting apps with flow & finesse  
-- 🔧 **Networking & IT Infrastructure Enthusiast** - Making networks groove  
-- 📊 **Dashboard & Monitoring Tools Creator** - Data in motion  
-- 🎵 Passionate about coding, problem-solving & always leveling up  
-
----
-
-## 🛠 Tech & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode,linux,windows,python,docker,terraform,react,nodejs" />
+<img src="https://img.shields.io/badge/Code-JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Frontend-HTML5-ff00ff?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/Style-CSS3-00f7ff?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Editor-VSCode-ff00ff?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🧑🏽 Who Am I
+
+```txt
+Name      : Agus Satria Adhitama
+Degree    : Bachelor of Computer Science (S.Kom)
+University: Universitas Muhammadiyah Malang
+Focus     : Web Development • Creative Coding
+Mission   : Build things that are fun, useful, and visually engaging
+```
+
+I love turning ideas into **interactive digital experiences**.
+Most of my projects are experiments combining **code, creativity, and storytelling**.
+
+---
+# 🎥 Developer Card
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agusadhitama&theme=tokyonight" /> </p>
+
+---
+
+# 🛠 Tech Stack
+
+```txt
+Languages  : JavaScript • HTML • CSS
+Tools      : Git • GitHub • VS Code
+Learning   : Three.js • Web Visualization • API Integration
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusadhitama&layout=compact&theme=tokyonight"/> </p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agusadhitama&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=agusadhitama&theme=tokyonight&border_radius=10" />
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agusadhitama&theme=tokyo-night" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-More projects → [GitHub](https://github.com/agusadhitama)
-
----
-
-## 📫 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
-📧 <a href="mailto:agusadhitama95@gmail.com">agusadhitama95@gmail.com</a> •  
-📸 Instagram: <a href="https://instagram.com/agusadhitamaa" target="_blank">@agusadhitamaa</a>
+
+<a href="https://www.linkedin.com/in/agusadhitama/">
+<img src="https://img.shields.io/badge/LinkedIn-Agus%20Satria%20Adhitama-00f7ff?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/agusadhitama">
+<img src="https://img.shields.io/badge/GitHub-Agus%20Adhitama-ff00ff?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/agusadhitamaa">
+<img src="https://img.shields.io/badge/Instagram-@agusadhitamaa-ff00ff?style=for-the-badge&logo=instagram"/>
+</a>
+
 </p>
 
 ---
 
-## ⚡ Motto
+# ⚡ Developer Philosophy
 
-> "Code like beats, commit like rhymes, always in rhythm."  
+> Code is not just logic.
+> It's creativity, experimentation, and expression.
+
+Small projects can become **big ideas**.
 
 ---
 
 <p align="center">
-⭐ From <b>Agus Satria Adhitama</b>
+
+⭐ Thanks for visiting my GitHub profile ⭐
+
 </p>
