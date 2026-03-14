@@ -1,4 +1,4 @@
-<h1 align="center">Yo! 👋 I'm Agus Satria Adhitama</h1>
+<h1 align="center">Yo! 🙌🏽 I'm Agus Satria Adhitama</h1>
 
 <p align="center">
 💻 IT Support • Web Developer • Network & System Flow Enthusiast
