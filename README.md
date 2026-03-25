@@ -1,5 +1,5 @@
 <h1 align="center">
-⚡ Agus Satria Adhitama ⚡
+⚡ AGUS SATRIA ADHITAMA ⚡
 </h1>
 
 <p align="center">
