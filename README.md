@@ -10,8 +10,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Code-JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Frontend-HTML5-ff00ff?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/Style-CSS3-00f7ff?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Frontend-HTML-ff00ff?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/Style-CSS-00f7ff?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/Editor-VSCode-ff00ff?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
