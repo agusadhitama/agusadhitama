@@ -21,14 +21,14 @@
 
 ```txt
 Name      : Agus Satria Adhitama
-Degree    : Bachelor of Computer Science (S.Kom)
-University: Universitas Muhammadiyah Malang
-Focus     : Web Development • Creative Coding
-Mission   : Build things that are fun, useful, and visually engaging
+Role      : IT Support Engineer
+Experience: Multi-branch IT Operations (36 locations)
+Focus     : System • Network • Troubleshooting
+Mission   : Build reliable systems and solve real-world technical problems
 ```
 
-I love turning ideas into **interactive digital experiences**.
-Most of my projects are experiments combining **code, creativity, and storytelling**.
+**i also enjoy building small projects on GitHub to explore new technologies
+and improve my technical skills.**
 
 ---
 # 🎥 Developer Card
@@ -90,10 +90,11 @@ Learning   : Three.js • Web Visualization • API Integration
 
 # ⚡ Developer Philosophy
 
-> Code is not just logic.
-> It's creativity, experimentation, and expression.
+> Technology is not just about code.
+> It's about solving real problems, maintaining systems,
+> and creating reliable solutions.
 
-Small projects can become **big ideas**.
+I believe small improvements in systems can create big impact in real operations.
 
 ---
 
