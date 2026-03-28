@@ -8,13 +8,6 @@
 
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Code-JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Frontend-HTML-ff00ff?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/Style-CSS-00f7ff?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Editor-VSCode-ff00ff?style=for-the-badge&logo=visualstudiocode"/>
-</p>
-
 ---
 
 # 🧑🏽 Who Am I
@@ -33,6 +26,7 @@ Status : Always exploring...
 ---
 
 # 🎥 Developer Card
+
 <p align="center">
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agusadhitama&theme=tokyonight" />
@@ -41,6 +35,7 @@ Status : Always exploring...
 ---
 
 # 🧪 Currently Playing With
+
 - ⚡ Creative coding
 - 🌐 Web experiments
 - 🎮 Small interactive projects
@@ -84,8 +79,10 @@ Status : Always exploring...
 
 # 🌐 Find Me Here
 
-<p align="center"> <a href="https://www.linkedin.com/in/agusadhitama/"> <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin"/> </a> <a href="https://instagram.com/agusadhitamaa"> <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram"/> </a> </p>
-
+<p align="center"> <a href="https://www.linkedin.com/in/agusadhitama/">
+  <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin"/> </a> 
+  <a href="https://instagram.com/agusadhitamaa">
+    <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram"/> </a>
 </p>
 
 ---
