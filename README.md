@@ -49,7 +49,9 @@ Status : Always exploring...
 ---
 
 # 🛠 Tools I Use
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,python,git,github,vscode" />
+</p>
 
 ---
 
