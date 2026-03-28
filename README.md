@@ -44,17 +44,9 @@ Status : Always exploring...
 ---
 
 # 🛠 Tools I Use
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,python,git,github,vscode" />
-</p>
-
----
-
-# 📊 Stats (because why not)
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusadhitama&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
