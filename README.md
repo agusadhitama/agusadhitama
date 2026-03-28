@@ -20,35 +20,45 @@
 # 🧑🏽 Who Am I
 
 ```txt
-Name      : Agus Satria Adhitama
-Role      : IT Support Engineer
-Experience: Multi-branch IT Operations (36 locations)
-Focus     : System • Network • Troubleshooting
-Mission   : Build reliable systems and solve real-world technical problems
+Name   : Agus Satria Adhitama
+Vibe   : Chill • Curious • Builder
+Mode   : Learn → Build → Break → Repeat
+Status : Always exploring...
 ```
 
-**i also enjoy building small projects on GitHub to explore new technologies
-and improve my technical skills.**
+💡 i like creating random stuff that somehow works </p>
+🎯 not chasing perfection, just chasing progress </p>
+🚀 GitHub = my playground </p>
 
 ---
+
 # 🎥 Developer Card
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agusadhitama&theme=tokyonight" /> </p>
+<p align="center">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agusadhitama&theme=tokyonight" />
+</p>
 
 ---
 
-# 🛠 Tech Stack
-
-```txt
-Languages  : JavaScript • HTML • CSS
-Tools      : Git • GitHub • VS Code
-Learning   : Three.js • Web Visualization • API Integration
-```
+# 🧪 Currently Playing With
+- ⚡ Creative coding
+- 🌐 Web experiments
+- 🎮 Small interactive projects
+- 🧠 Anything that looks interesting
 
 ---
 
-# 📊 GitHub Analytics
+# 🛠 Tools I Use
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode" /> </p>
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusadhitama&layout=compact&theme=tokyonight"/> </p>
+---
+
+# 📊 Stats (because why not)
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusadhitama&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -62,39 +72,29 @@ Learning   : Three.js • Web Visualization • API Integration
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Snake Eating My Contributions
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Find Me Here
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/agusadhitama/">
-<img src="https://img.shields.io/badge/LinkedIn-Agus%20Satria%20Adhitama-00f7ff?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/agusadhitamaa">
-<img src="https://img.shields.io/badge/Instagram-@agusadhitamaa-ff00ff?style=for-the-badge&logo=instagram"/>
-</a>
+<p align="center"> <a href="https://www.linkedin.com/in/agusadhitama/"> <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin"/> </a> <a href="https://instagram.com/agusadhitamaa"> <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram"/> </a> </p>
 
 </p>
 
 ---
 
-# ⚡ Developer Philosophy
+# ⚡ Random Thought
 
-> Technology is not just about code.
-> It's about solving real problems, maintaining systems,
-> and creating reliable solutions.
+"If it's boring, I'm probably doing it wrong."
 
-I believe small improvements in systems can create big impact in real operations.
+---
+
+<p align="center"> ✨ built with curiosity ✨ </p>
 
 ---
 
