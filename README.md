@@ -88,8 +88,7 @@ const adhit = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agusadhitama&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-trophies.vercel.app/?username=agusadhitama&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
