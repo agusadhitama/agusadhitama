@@ -19,8 +19,6 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
 ### 🙋 whoami
 
 ```ts
@@ -70,9 +68,7 @@ const adhit = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agusadhitama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusadhitama&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=agusadhitama&cc=000&tc=fff&ic=fff&bc=000" height="170"/>
 
 </div>
 
@@ -146,7 +142,6 @@ const adhit = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agusadhitama)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agusadhitamaa)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adhitdisitu)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agusadhitama)
 
 </div>
 
