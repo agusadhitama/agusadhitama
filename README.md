@@ -155,6 +155,6 @@ const adhit = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=thanks%20for%20stopping%20by!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=thanks%20for%20stopping%20by%20!&fontSize=22&fontColor=ffffff&animation=twinkling"/>
 
 </div>
