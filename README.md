@@ -13,7 +13,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=agusadhitama&color=blueviolet&style=flat-square&label=visitors)&nbsp;
 ![](https://img.shields.io/badge/status-always%20having%20fun-ff69b4?style=flat-square)&nbsp;
 ![](https://img.shields.io/badge/bugs-they're%20features-orange?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/dark%20mode-mandatory-1a1a2e?style=flat-square)
 
 </div>
 
