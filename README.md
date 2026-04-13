@@ -91,7 +91,7 @@ const adhit = {
 ### 🎯 things i'm vibing with
 
 ```
-[████████████        ]  60%   learn something new every week
+[████████████        ]  60%   cookin some music
 [█████████████████   ]  85%   have fun while coding
 [████████████████████] 100%   touch grass occasionally 🌿
 [████                ]  20%   write proper documentation 😅
