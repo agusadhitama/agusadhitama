@@ -25,7 +25,7 @@ const adhit = {
   name     : "Agus Satria Adhitama",
   alias    : "Adhit",
   location : "Malang, Indonesia 🌴",
-  bio      : "always learning, always evolving 🚀",
+  bio      : "in my lane, no traffic 🚫",
 
   languages : ["JavaScript", "TypeScript"],
   tools     : ["Node.js", "React", "Git", "VS Code"],
@@ -148,6 +148,6 @@ const adhit = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=coding%20or%20die%20!&fontSize=22&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=IN%20MY%20LANE,%20NO%20TRAFFIC%20!&fontSize=22&fontColor=ffffff&animation=twinkling"/>
 
 </div>
