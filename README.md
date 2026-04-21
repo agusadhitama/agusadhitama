@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hey,%20i'm%20Adhit&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Agus%20Satria%20Adhitama%20-%20building%20things%20for%20fun&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20i'm%20Adhit&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Agus%20Satria%20Adhitama%20-%20building%20things%20for%20fun&descAlignY=60&descSize=18"/>
 
 </div>
 
@@ -18,14 +18,14 @@
 
 ---
 
-### 🙋 whoami
+### 🤸🏽‍♂️ Whoami
 
 ```ts
 const adhit = {
   name     : "Agus Satria Adhitama",
   alias    : "Adhit",
-  location : "Malang, Indonesia 🌴",
-  bio      : "in my lane, no traffic 🚫",
+  location : "Malang, Indonesia",
+  bio      : "in my lane, no traffic",
 
   languages : ["JavaScript", "TypeScript"],
   tools     : ["Node.js", "React", "Git", "VS Code"],
@@ -35,7 +35,7 @@ const adhit = {
 
   funFacts  : [
     "My code works, I don't know why 🤷",
-    "GitHub = my playground 🎮",
+    "GitHub = my playground",
   ],
 };
 ```
@@ -44,7 +44,7 @@ const adhit = {
 
 ---
 
-### 🛠️ weapons of choice
+### 🛠️ Weapons of choice
 
 <div align="center">
 
@@ -63,7 +63,7 @@ const adhit = {
 
 ---
 
-### 📊 the numbers (don't lie)
+### 📊 The numbers (don't lie)
 
 <div align="center">
 
@@ -79,7 +79,7 @@ const adhit = {
 
 ---
 
-### 🏆 trophy case
+### 🏆 Trophy case
 
 <div align="center">
 
@@ -88,19 +88,19 @@ const adhit = {
 
 ---
 
-### 🎯 things i'm vibing with
+### 🎯 Things i'm vibing with
 
 ```
 [████████████        ]  60%   cookin some music
 [█████████████████   ]  85%   have fun while coding
-[████████████████████] 100%   touch grass occasionally 🌿
-[████                ]  20%   write proper documentation 😅
+[████████████████████] 100%   touch grass occasionally
+[████                ]  20%   write proper documentation
 [███████████         ]  55%   push to GitHub consistently
 ```
 
 ---
 
-### 🌊 contribution activity
+### 🌊 Contribution activity
 
 <div align="center">
 
@@ -110,7 +110,7 @@ const adhit = {
 
 ---
 
-### 🐍 my contributions getting munched
+### 🐍 My contributions getting munched
 
 <div align="center">
 
@@ -124,7 +124,7 @@ const adhit = {
 
 ---
 
-### 💬 random dev quote
+### 💬 Random dev quote
 
 <div align="center">
 
@@ -134,7 +134,7 @@ const adhit = {
 
 ---
 
-### 📬 find me around the internet
+### 📬 Find me around the internet
 
 <div align="center">
 
