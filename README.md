@@ -24,7 +24,7 @@
 const adhit = {
   name     : "Agus Satria Adhitama",
   alias    : "Adhit",
-  location : "Malang, Indonesia",
+  home town : "Timika, Papua Tengah",
   bio      : "in my lane, no traffic",
 
   languages : ["JavaScript", "TypeScript"],
