@@ -22,10 +22,10 @@
 
 ```ts
 const adhit = {
-  name     : "Agus Satria Adhitama",
-  alias    : "Adhit",
+  name      : "Agus Satria Adhitama",
+  alias     : "Adhit",
   home town : "Timika, Papua Tengah",
-  bio      : "in my lane, no traffic",
+  bio       : "in my lane, no traffic",
 
   languages : ["JavaScript", "TypeScript"],
   tools     : ["Node.js", "React", "Git", "VS Code"],
